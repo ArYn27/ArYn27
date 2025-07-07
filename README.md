@@ -9,6 +9,8 @@ Skills:
 Object-oriented programming | Community management | Project management 
 
 Tools:
+
+
 ![visual-studio-code](https://github.com/user-attachments/assets/07704689-8a61-4e10-8ac0-54ad1e06ae58)
 
 
