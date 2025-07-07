@@ -11,8 +11,7 @@ Object-oriented programming | Community management | Project management
 Tools:
 
 
-![visual-studio-code](https://github.com/user-attachments/assets/07704689-8a61-4e10-8ac0-54ad1e06ae58)
-
+![visual-studio-code](https://github.com/user-attachments/assets/07704689-8a61-4e10-8ac0-54ad1e06ae58)  ![cpp](https://github.com/user-attachments/assets/d2a87462-fd3a-4d12-bc2d-75f8bfb25d1d)
 
 
 
