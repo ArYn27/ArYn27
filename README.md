@@ -9,7 +9,8 @@ Skills:
 Object-oriented programming | Community management | Project management 
 
 Tools:
-![image](https://github.com/user-attachments/assets/3c4d3f88-94f2-4ebc-aea8-2a738c5203c1)
+![visual-studio-code](https://github.com/user-attachments/assets/07704689-8a61-4e10-8ac0-54ad1e06ae58)
+
 
 
 
