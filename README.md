@@ -11,11 +11,7 @@ Object-oriented programming | Community management | Project management
 Tools:
 
 
-![visual-studio-code](https://github.com/user-attachments/assets/07704689-8a61-4e10-8ac0-54ad1e06ae58)  
-![cpp](https://github.com/user-attachments/assets/d2a87462-fd3a-4d12-bc2d-75f8bfb25d1d)  
-![c](https://github.com/user-attachments/assets/53596e3e-e3b2-4c60-9764-cdb615fc28e2)
-![python](https://github.com/user-attachments/assets/bc1c51df-1617-4b10-8202-d59a5b94c95e)
-![rust](https://github.com/user-attachments/assets/4c1c67be-bcfd-4296-9b2b-f215af9e86a0)
+![visual-studio-code](https://github.com/user-attachments/assets/07704689-8a61-4e10-8ac0-54ad1e06ae58)  ![cpp](https://github.com/user-attachments/assets/d2a87462-fd3a-4d12-bc2d-75f8bfb25d1d)  ![c](https://github.com/user-attachments/assets/53596e3e-e3b2-4c60-9764-cdb615fc28e2)  ![python](https://github.com/user-attachments/assets/bc1c51df-1617-4b10-8202-d59a5b94c95e)  ![rust](https://github.com/user-attachments/assets/4c1c67be-bcfd-4296-9b2b-f215af9e86a0)
 
 
 
