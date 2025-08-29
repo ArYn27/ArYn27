@@ -1,7 +1,7 @@
 ## Hello 👋
 I'm Aaryan Didwania , I am from jaypee Institute Of Information Technology , Noida currently pursuing a B.Tech in Information Technology. 
 
-I have interests in financial technologies , and implementing AI in new and emerging fields . Yeah and I like to code as well ;) , currently learning DSA (using C++) , C# , Python . Previously worked with HTML , CSS , Javascript as well.  
+I have interests in financial technologies , and implementing AI in new and emerging fields . Currently learning DSA (using C++) , C# , Python . Previously worked with HTML , CSS , Javascript as well.  
 
 I'd love to collaborate on ideas meant for the betterment of the society ! 
 
