@@ -6,7 +6,7 @@ I have interests in financial technologies , and implementing AI in new and emer
 I'd love to collaborate on ideas meant for the betterment of the society ! 
 
 Skills:
-Object-oriented programming | Community management | Project management 
+Object-oriented programming | Data Structures and Algorithms | Community management | Project management 
 
 Tools:
 
